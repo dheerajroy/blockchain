@@ -6,4 +6,4 @@ This is made interactive with the help of Fast API.
 
 ### Note:
 use "uvicorn main:app --reload" command to run the Fast API server
-add visit localhost:8000/docs to play with the blockchain.
+and visit localhost:8000/docs to play with the blockchain.
